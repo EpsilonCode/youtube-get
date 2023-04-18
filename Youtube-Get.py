@@ -4,6 +4,8 @@
     Music get highest quality audio, then converted to .mp3
     Videos try for 720p resolution or better. If .mp4 not available, convert.
     Using pyTube Version: 12.1.3
+    Python verion: 3.10.11
+    moviepy version: 1.0.3
 '''
 import os
 from moviepy.editor import *
