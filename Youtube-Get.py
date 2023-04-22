@@ -3,8 +3,8 @@
     Date: 4-18-2023
     Music get highest quality audio, then converted to .mp3
     Videos try for 720p resolution or better. If .mp4 not available, convert.
-    pyTube v_12.1.3
     Python v_3.10.11
+    pyTube v_12.1.3
     moviepy v_1.0.3
 '''
 import os
